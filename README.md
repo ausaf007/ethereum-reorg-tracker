@@ -34,9 +34,9 @@ Download and install [Golang 1.19](https://go.dev/doc/install) (or higher).
 
 ## How To Use?
 
-1. Navigate to `task-3-reorg-tracker/`:
+1. Navigate to `ethereum-reorg-tracker/`:
    ``` 
-   cd /path/to/folder/task-3-reorg-tracker/
+   cd /path/to/folder/ethereum-reorg-tracker/
    ```
 2. Open `.env` file and fill in the `CLIENT_LINK` field. This is useful to connect to the Ethereum Node.
 3. Get dependencies:
