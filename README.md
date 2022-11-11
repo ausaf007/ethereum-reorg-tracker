@@ -16,7 +16,7 @@
 
 ## About The Project
 
-Command-line application to track and detect chain reorganization in the Ethereum blockchain. In case a chain re-org is detected, the discarded blocks from the ephemetal forks is printed out.
+Command-line application to track and detect chain reorganization in the Ethereum blockchain. In case a chain re-org is detected, the discarded blocks from the ephemeral forks is printed out.
 
 ## Tech Stack
 
